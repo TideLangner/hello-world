@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # HD wallet generator 3 - complex
-=======
-# BIP-44 HD wallet generator 
->>>>>>> origin/main
+# BIP-44 HD wallet generator
 # Tide Langner
 # 31 August 2022
 
@@ -167,6 +164,4 @@ print("----------------")
 
 # final_address = b58encode(b)
 # print(final_address.decode("utf8"))
-=======
 # print(final_address.decode("utf8"))
->>>>>>> origin/main
