@@ -1,4 +1,4 @@
-# HD wallet generator 3 - complex
+# BIP-44 HD wallet generator 
 # Tide Langner
 # 31 August 2022
 
